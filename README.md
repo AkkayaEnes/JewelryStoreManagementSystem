@@ -37,11 +37,8 @@ Here are some screenshots of the application:
 
 ### Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- jQuery
+- C#
+- DevExpress
 
 ### Installation
 
