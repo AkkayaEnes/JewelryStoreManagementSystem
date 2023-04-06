@@ -33,6 +33,7 @@ Here are some screenshots of the application:
 
 ![Customer Listing](https://user-images.githubusercontent.com/95829445/230301843-36f72b53-911a-41b3-ae25-354ab2d8e295.PNG)
 
+![SatısSayfası](https://user-images.githubusercontent.com/95829445/230302010-7f96475c-ddff-4d57-8758-5d643e457175.PNG)
 
 
 ![Sales Page](./SatısSayfası.png)
