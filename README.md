@@ -44,8 +44,7 @@ Here are some screenshots of the application:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Open the `index.html` file in your web browser.
+1. Clone the repository: `git clone https://github.com/Hekimy/JewelryStoreManagementSystem`
 
 ### Contributing
 
