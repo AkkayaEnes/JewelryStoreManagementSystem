@@ -16,21 +16,24 @@ This is a management system designed for a jewelry store. The system includes a 
 
 Here are some screenshots of the application:
 
-![Home Page](./Anasayfa.png)
+![Home Page](https://user-images.githubusercontent.com/95829445/230301221-b70a5d77-1f53-45e0-b555-f981f371b594.png)
 
-![Login Page](./LoginSayfası.png)
+![Login Page](https://user-images.githubusercontent.com/95829445/230301562-d6642b0d-8a2e-46cc-b9a0-d4eb1fd948b5.PNG)
 
-![Category Adding](./KategoriEkleme.png)
+![Category Adding](https://user-images.githubusercontent.com/95829445/230301647-7bac962b-4945-45a7-b295-c3b79d73ad11.png)
 
-![Brand Adding](./MarkaEkleme.png)
+![Brand Adding](https://user-images.githubusercontent.com/95829445/230301674-a04f99c3-fedd-411d-8fc4-1e92abcce6b1.png)
 
-![Customer Adding](./MüsteriEkleme.png)
+![Customer Adding](https://user-images.githubusercontent.com/95829445/230301732-bc93c794-8c61-4d82-b1d6-6e63367d4f50.png)
 
-![Product Adding](./ÜrünEkleme.png)
+![Product Adding](https://user-images.githubusercontent.com/95829445/230301788-3b9c70a5-b900-4215-be5f-bb978b076f9e.png)
 
-![Product Listing](./ÜrünListeleme.png)
+![Product Listing](https://user-images.githubusercontent.com/95829445/230301824-dfd769b7-00cd-440c-ae6b-f94ce2add599.png)
 
-![Customer Listing](./MüsteriListeleme.png)
+
+![Customer Listing](https://user-images.githubusercontent.com/95829445/230301843-36f72b53-911a-41b3-ae25-354ab2d8e295.PNG)
+
+
 
 ![Sales Page](./SatısSayfası.png)
 
