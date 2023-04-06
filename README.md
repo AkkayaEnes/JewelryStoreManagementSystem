@@ -30,13 +30,10 @@ Here are some screenshots of the application:
 
 ![Product Listing](https://user-images.githubusercontent.com/95829445/230301824-dfd769b7-00cd-440c-ae6b-f94ce2add599.png)
 
-
 ![Customer Listing](https://user-images.githubusercontent.com/95829445/230301843-36f72b53-911a-41b3-ae25-354ab2d8e295.PNG)
 
-![SatısSayfası](https://user-images.githubusercontent.com/95829445/230302010-7f96475c-ddff-4d57-8758-5d643e457175.PNG)
+![Sales Page](https://user-images.githubusercontent.com/95829445/230302198-a5b134db-64b8-498d-af7f-623937a2423f.PNG)
 
-
-![Sales Page](./SatısSayfası.png)
 
 ### Technologies Used
 
